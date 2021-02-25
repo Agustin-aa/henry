@@ -1,4 +1,0 @@
-ARRAY:
-Un array es un elemento donde se pueden almacenar datos. En él se pueden guardar datos de cualquier tipo (incluso
-mezclando elementos de distinto tipo), y la cantidad que deseemos. Los datos almacenados tienen un orden
-dado por su posición, el primer elemento tiene posición 0 (siempre), el segundo tiene posición 1 y así sucesivamente.
